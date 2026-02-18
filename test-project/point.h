@@ -14,6 +14,7 @@ void DevBranch() {
 
 int SumModule2(int a, int b) {
 	return (a + b) % 2;
+	std::cout << "Stashed data!!!!" << std::endl;
 }
 
 int NewFucn(const int& b) {
